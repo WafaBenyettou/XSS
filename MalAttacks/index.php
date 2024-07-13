@@ -22,9 +22,9 @@ if (isset($_POST['outputCookie']))
 
 
 $servername = "localhost";
-$username = "XSS";
-$password = "16012002";
-$dbname = "xss_tutorial2"; 
+$username = "YOUR_USERNAME";
+$password = "YOUR_PWD";
+$dbname = "YOUR_DBNAME"; 
 
 
 // Create connection
