@@ -1,0 +1,12 @@
+# ALERT BOX
+Hello CLA 
+<script>alert("XSS")</script> Cool site
+
+REDIRECTION :
+
+Your site has a problem <script>window.location="https://www.google.com/search?q=what+is+XSS'</script>
+
+ps : window.location is a way for JavaScript to interact with the web page's URL.
+See the current URL.
+Go to a different URL.
+Reload the page.
